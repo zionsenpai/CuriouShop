@@ -26,7 +26,7 @@ Before you start with the tutorial make sure you have
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/suhailkakar/react-native-medusajs
+https://github.com/zionsenpai/CuriouShop
 ```
 
 2. Change directory and install dependencies:
